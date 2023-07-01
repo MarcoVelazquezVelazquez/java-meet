@@ -2,7 +2,7 @@ package com.epam.rd.autotasks.meetautocode;
 
 public class HelloJava {
     public static void main(String[] args) {
-       System.out.print("HI people");
+       System.out.print("Hello, Java course!");
 
     }
 }
